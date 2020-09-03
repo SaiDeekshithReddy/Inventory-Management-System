@@ -7,11 +7,11 @@ It shows warnings when the inventories count is less or expire date is very near
 ->Front End: HTML, CSS, Bootstrap, JSP\
 ->Back End: Spring Boot\
 ->Database: MySQL\
-->IDE: Spring Tool Suite\
+->IDE: Spring Tool Suite
 
 ## Dependencies
 spring-boot-starter-data-jpa\
 spring-boot-starter-web\
 spring-boot-starter-mail\
 tomcat-jasper\
-mysql-connector-java\
+mysql-connector-java
